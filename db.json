@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "isbn": 954257846,
+    "author": "Chinua Achebe",
+    "published": "Nigeria",
+    "description": "Things Fall Apart",
+    "coverImage": "https://i0.wp.com/kerryhannon.com/wp-content/uploads/2015/12/friend-and-foe-book-cover-adam-galinsky-maurice-schweitzer.jpg?fit=348%2C499",
+    "country": "Nigeria",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\\n",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "year": 1958
+  }
+  ]
